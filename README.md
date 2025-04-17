@@ -1,4 +1,5 @@
 <div align="center">
+  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white"></a>
   <h1>📈 YouTube Most Replayed Extractor</h1>
   <p>
     A simple tool to extract and visualize YouTube's "Most Replayed" graph, data made available to all users in May 2022
